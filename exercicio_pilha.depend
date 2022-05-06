@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651838738 source:c:\users\bie_animation\onedrive\desktop\importants\eep\laboratório de estrutura de dados\exercícios\exercício 02 - pilha (inversão)\exercicio_pilha\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
